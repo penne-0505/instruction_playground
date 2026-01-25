@@ -4,7 +4,7 @@
 
 **ChatGPT**: [here](general_instructions/chatgpt/INSTRUCTION.md)
 
-**Gemini**: [here](general_instructions/gemini/general.md)
+**Gemini**: [here](general_instructions/gemini/INSTRUCTION.md)
 
 **Claude**: n/a
 
