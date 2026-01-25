@@ -76,4 +76,4 @@ AIアシスタント（ChatGPT、Gemini等）に対するカスタム指示（cu
 
 ## ライセンス
 
-(wip)
+このプロジェクトはMITライセンスの下で公開されています。詳細は [LICENSE.txt](LICENSE.txt) を参照してください。
