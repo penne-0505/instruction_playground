@@ -21,7 +21,7 @@ AIアシスタント（ChatGPT、Gemini等）に対するカスタム指示（cu
 ### 専門的な指示
 
 - **`specialist_instructions/`**: 特定の用途に特化した指示文
-  - `designer_instruction.md`: Webデザイナーモード向け指示 (Anthropic公式の指示を引用)
+  - `designer_instruction.md`: Webデザイナーモード向け指示 (Anthropic公式の指示を引用しただけなので、remoteには含めていません)
 
 ### テストプロンプト
 
