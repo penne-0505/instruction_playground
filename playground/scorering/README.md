@@ -1,0 +1,1 @@
+llm as a judgeとしての評価機構のドラフトです。prompt,instructionは完成品でも概ね同じものを使う予定です。具体的なパイプラインとしてのコードはここではなく、[このリポジトリ](https://github.com/penne-0505/llm_evaluation)に作成しています。
