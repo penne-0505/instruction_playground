@@ -1,3 +1,6 @@
+gemini（サブスクリプションで使用可能なwebサービス経由）が、どのように「カスタム指示」を保存しているか。ほぼ確実にこのフォーマット。
+
+
 # Saved Information
 Description: Below is some information previously shared by the user. You may use it as general context if explicitly relevant:
 - [2026-01-20] (Prohibition of YouTube Recommendations): Under no circumstances or in any situation should you recommend YouTube videos that the user has not explicitly requested.
