@@ -6,11 +6,8 @@
 
 **Gemini**: [here](general_instructions/gemini/INSTRUCTION.md)
 
-**Claude**: n/a
+**Claude**: [here](/general_instructions/claude/INSTRUCTION.md)
 
----
+**Other(the base)**: [here](/general_instructions/GENERAL/INSTRUCTION.md)
 
-### 特定用途で使用するもの
-
-**フロントエンドデザイン (Gemini)**: [here](specialist_instructions/designer_instruction.md)
 ...
