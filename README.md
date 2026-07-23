@@ -13,6 +13,8 @@ LLM 向けの instruction / prompt を保管・比較・改善するためのワ
 
 ## クイックスタート
 
+## 現状、実際に使用・管理しているのは`playground/`配下および`general_instructions/`配下のみです。
+
 - 現在使用中の instruction: [CURRENTRY_USING.md](CURRENTRY_USING.md)
 - 実運用寄りの instruction:
   - [general_instructions/chatgpt/INSTRUCTION.md](general_instructions/chatgpt/INSTRUCTION.md)
